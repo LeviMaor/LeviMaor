@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <p align="center"> I'm a passionate frontend developer. Recently graduated for my B.Sc in computer science.
   <br>
-  Passioned about Web Development, Game Development and Machine Learning AI.
+  Passioned about Web Development, Game Development and Machine Learning.
   <br>
   Feel free to contact me in <b><a href="https://www.linkedin.com/in/maor-levi-01b328248/">Linkedin</a></b>..
 </p>
