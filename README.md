@@ -2,9 +2,9 @@
   Welcome to Levi Maor's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-  
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=impact&size=30&pause=10&color=6495ED&center=true&vCenter=true&width=435&lines=Front-End+Software+Developer" alt="Typing SVG" /></a>
-  
+</p>
   
 
 <!--
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
