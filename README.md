@@ -25,7 +25,14 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate frontend developer</h3>
 
-<h3 align="center">Connect with me:</h3>
+<p align="center"> I'm a passionate frontend developer. Recently graduated for my B.Sc in computer science.
+  <br>
+  Passioned about Algorithms, game development and Al - specfically machine learning.
+  <br>
+  feel free to contact me in <b><a href="https://www.linkedin.com/in/maor-levi-01b328248/">Linkedin</a></b>..
+</p>
+
+
 <p align="left">
 </p>
 
