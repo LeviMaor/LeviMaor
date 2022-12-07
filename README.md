@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="center"> I'm a passionate frontend developer. Recently graduated for my B.Sc in computer science.
+<p align="center"> I'm a passionate Full Stack developer. Recently graduated for my B.Sc in computer science.
   <br>
   Passioned about Web Development, Game Development and Machine Learning.
   <br>
