@@ -23,12 +23,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">C++ developer</h3>
 
-<p align="center"> I'm a passionate Full Stack developer. Recently graduated for my B.Sc in computer science.
-  <br>
-  Passioned about Web Development, Game Development and Machine Learning.
-  <br>
+<p align="center">
   Feel free to contact me in <b><a href="https://www.linkedin.com/in/maor-levi-01b328248/">Linkedin</a></b>..
 </p>
 
