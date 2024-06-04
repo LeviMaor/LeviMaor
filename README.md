@@ -2,10 +2,6 @@
   Welcome to Levi Maor's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=impact&size=30&pause=10&color=6495ED&center=true&vCenter=true&width=435&lines=Front-End+Software+Developer" alt="Typing SVG" /></a>
-</p>
-  
 
 <!--
 **LeviMaor/LeviMaor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
