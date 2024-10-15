@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">C++ developer</h3>
+<h3 align="center">Software developer</h3>
 
 <p align="center">
   Feel free to contact me in <b><a href="https://www.linkedin.com/in/maor-levi-01b328248/">Linkedin</a></b>..
